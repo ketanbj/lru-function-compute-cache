@@ -24,9 +24,3 @@
 - with cache enabled
 
 ```$ ./cc 1```
-
-Sample Output:
-
-<p align="center">
-    <img src="sample-output.png" alt="drawing" width="100%"/>
-</p>
